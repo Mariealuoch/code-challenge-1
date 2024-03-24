@@ -3,7 +3,7 @@ function studentGrade(grade){
     const studentName= "Marion"//assign a variable 
    const studentMark = 0// // a variable assigned for the student markk
  
-     if (grade >=79){
+     if (grade >=79){// condtions
          return 'A'
      }
      else if (grade >= 60 && grade<=79){
@@ -19,4 +19,5 @@ function studentGrade(grade){
          return "E"
      }
  }
- console.log(studentGrade(42))// => E
+ //Test Case
+ console.log(studentGrade(42));// => E
