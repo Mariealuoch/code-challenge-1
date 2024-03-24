@@ -14,6 +14,7 @@ To get started :
 "code ." to your terminal.
 
 ## Instructions
+
 ## Submission Guidelines
 In order to submit the code challenge ensure that you follow these steps:
 1. Ensure the solution meets all the requirements and passes the provided test cases.
@@ -21,5 +22,9 @@ In order to submit the code challenge ensure that you follow these steps:
 git add .
 git commit -m "Your commit message"
 3. Push your changes to your remote repository:   
-git push 
+git push
+
+## Resources
+https://developer.mozilla.org/en-US/
+
 
